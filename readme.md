@@ -16,7 +16,7 @@ A primitive shape is a basic geometric shape that cannot be broken down into any
 
 Properties:
 
-- length
+- height
 - width
 
 Methods:
@@ -27,19 +27,23 @@ Methods:
 ## Create a Rectangle class which inherits from Polygon:
 
 Properties:
-- length
+
+- height
 - width
 
 Methods:
+
 - getArea()
 - getPerimeter()
 
 ## Create a Square class which inherits from Polygon:
 
 Properties:
-- length
+
+- height
 
 Methods:
+
 - getArea()
 - getPerimeter()
 
